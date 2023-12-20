@@ -2,13 +2,13 @@
 大家好，我是程序员Tan。一名电子科技大学（UESTC）在读研究生。
 ## 我的开源项目：
 ### 学习规划 🌱
-* [Leetcode-master](https://github.com/youngyangyang04/leetcode-master)🔥：leetcode刷题全攻略就在这里
+* 
 ### 嵌入式开发方向 🔭
-
-### 小游戏 😄
-
+* [HiSpark-CatDogHelper](https://github.com/coding-tan/HiSpark-CatDogHelper/tree/master)🔥：嵌入式大赛海思赛道：校园喵狗派
 ### 开发的工具 📫
-
+* 
+### xxx 😄
+* 
 ## 我的xx⚡：
 <!--
 **coding-tan/coding-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
