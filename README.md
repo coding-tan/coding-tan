@@ -14,7 +14,7 @@ Hi, I'm Tan Hui, a graduate student at the University of Electronic Science and 
 * [Serial_BER_test](https://github.com/coding-tan/Serial_BER_test): A Simple Tool for Serial Port Error Rate Estimation.
 ### Others📚
 * [CQUPTtex](https://github.com/coding-tan/CQUPTtex): Chongqing University of Posts and Telecommunications undergraduate thesis LaTeX template.
-* 
+* [TexSmart](https://github.com/coding-tan/TexSmart): Construction of Customer Battle Alliance Index Based on Text Analysis.
 
 
 <!--
