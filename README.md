@@ -1,16 +1,22 @@
-## Hi there 👋
-大家好，我是程序员Tan。一名电子科技大学（UESTC）在读研究生。
-## 我的开源项目：
-### 嵌入式开发方向 🔭
-* 1. [HiSpark-CatDogHelper](https://github.com/coding-tan/HiSpark-CatDogHelper/tree/master)🔥：嵌入式大赛海思赛道：校园喵狗派
-* 
-### 开发的工具 📫
-* 
-### xxx 😄
-* 
-## 我的xx⚡：
+## Yoo, I'm Tan Hui!👋
+Hi, I'm Tan Hui, a graduate student at the University of Electronic Science and Technology of China (UESTC).
 
-## 学习路线 🌱
+- 🔭 I’m currently working on my project [Intelligent Infrared Camera](https://github.com/coding-tan/EASY-EAI-Toolkit-C-SDK/tree/dev)
+- 🌱 I’m currently learning C++ & Linux 
+- 💬 Ask me about anything [here](mailto:tanhui1108@qq.com)
+## My Open Source Projects：
+### Embedded Development📡
+* [Intelligent Infrared Camera](https://github.com/coding-tan/EASY-EAI-Toolkit-C-SDK/tree/dev):Used for wildlife monitoring.  
+* [HiSpark-CatDogHelper](https://github.com/coding-tan/HiSpark-CatDogHelper/tree/master)：[Embedded Competition](http://www.socchina.net/) Hisilicon Track Entries, Campus CatDog Faction.
+* [Adjustable RF Attenuator](https://github.com/coding-tan/Adjustable-RF-Attenuator): Modbus-controlled Multi-level Adjustable RF Amplifier.
+* [Modbus RTU](https://github.com/coding-tan/Modbus): Implementation of Modbus RTU Protocol Based on STM32F103C8T6.
+### Development Tools🛠️
+* [Serial_BER_test](https://github.com/coding-tan/Serial_BER_test): A Simple Tool for Serial Port Error Rate Estimation.
+### Others📚
+* [CQUPTtex](https://github.com/coding-tan/CQUPTtex): Chongqing University of Posts and Telecommunications undergraduate thesis LaTeX template.
+* 
+
+
 <!--
 **coding-tan/coding-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
